@@ -124,7 +124,7 @@ When frames were dropped, using the actual timestamps helped maintain higher IDF
 
 
 
-## 4. Sensor Noise and Robustness
+## 4. Sensor Noise
 
 The effect of sensor problems on object detection and tracking was tested under different conditions:
 
